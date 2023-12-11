@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/wh-40k-th/","tags":["gardenEntry"],"created":"2023-12-11T00:53:45.071+07:00","updated":"2023-12-11T09:20:48.610+07:00"}
+{"dg-publish":true,"permalink":"/wh-40k-th/","contentClasses":"menu","tags":["gardenEntry"],"created":"2023-12-11T00:53:45.071+07:00","updated":"2023-12-11T11:00:19.138+07:00"}
 ---
 
 
 # ยินดีต้อนรับสู่ Warhammer 40k - TH Edition
 
-[[Core Rules\|Core Rules]]
+[[CoreRules/Core Rules\|Core Rules]]
 [[Key Documents\|Key Documents]]
 
 [[Adepta Sororitas\|Adepta Sororitas]]

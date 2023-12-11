@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/core-rules/","created":"2023-12-11T09:38:16.053+07:00","updated":"2023-12-11T09:40:29.563+07:00"}
+{"dg-publish":true,"permalink":"/core-rules/core-rules/","contentClasses":"menu","created":"2023-12-11T09:38:16.053+07:00","updated":"2023-12-11T11:01:28.846+07:00"}
 ---
 
 
-- [[Core Concepts\|Core Concepts]]
+- [[CoreRules/Core Concept\|Core Concept]]
 - [[The Battle Round\|The Battle Round]]
 - [[Datasheets and Abilities\|Datasheets and Abilities]]
 - [[Further Rules\|Further Rules]]
