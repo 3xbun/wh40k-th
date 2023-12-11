@@ -14,10 +14,23 @@ ul li::before {
   font-weight: bold;
   display: inline-block; 
   width: 1em;
-  margin-right: 1em;
+  margin-right: .5em;
+}
+
+ul {
+  ul {
+    li {
+      content: "\2022";
+    }
+  }
 }
 
 .menu {
+  li::before {
+    content: "";
+    margin: 0;
+  }
+
   li {
     background-color: white;
     margin-bottom: 1em;
