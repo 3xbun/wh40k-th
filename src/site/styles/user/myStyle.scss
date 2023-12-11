@@ -4,11 +4,23 @@ body {
   font-family: 'Chakra Petch', sans-serif !important;
 }
 
+ul {
+  list-style: none;
+}
+
+ul li::before {
+  content: "\2022";
+  color: red;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-right: 1em;
+}
+
 .menu {
   li {
     background-color: white;
     margin-bottom: 1em;
-    list-style: none;
     padding: .5em 1em;
     border-radius: 1em;
   }
