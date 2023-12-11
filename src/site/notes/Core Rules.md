@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/core-rules/","created":"2023-12-11T09:38:16.053+07:00","updated":"2023-12-11T10:31:32.841+07:00"}
+{"dg-publish":true,"permalink":"/core-rules/","created":"2023-12-11T09:38:16.053+07:00","updated":"2023-12-11T10:42:14.711+07:00"}
 ---
 
 
-- [[ความเข้าใจพื้นฐาน\|ความเข้าใจพื้นฐาน]]
+- [[Core Concept\|Core Concept]]
 - [[The Battle Round\|The Battle Round]]
 - [[Datasheets and Abilities\|Datasheets and Abilities]]
 - [[Further Rules\|Further Rules]]
