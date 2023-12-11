@@ -9,7 +9,7 @@ ul {
 }
 
 ul li::before {
-  content: "\2022";
+  content: "\25A0";
   color: red;
   font-weight: bold;
   display: inline-block; 
