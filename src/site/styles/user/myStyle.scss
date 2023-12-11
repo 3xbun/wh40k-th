@@ -4,18 +4,21 @@ body {
   font-family: 'Chakra Petch', sans-serif !important;
 }
 
-li {
-  background-color: white;
-  margin-bottom: 1em;
-  list-style: none;
-  padding: .5em 1em;
-  border-radius: 1em;
+.menu {
+  li {
+    background-color: white;
+    margin-bottom: 1em;
+    list-style: none;
+    padding: .5em 1em;
+    border-radius: 1em;
+  }
+  
+  li .is-unresolved {
+    color: #B2BEB5;
+  }
+  
+  li a {
+    color: black;
+  }
 }
 
-li .is-unresolved {
-  color: #B2BEB5;
-}
-
-li a {
-  color: black;
-}
