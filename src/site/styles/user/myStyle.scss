@@ -29,12 +29,12 @@ ul {
 
 .menu {
   ul {
-    margin: 0;
+    padding: 0;
   }
 
   li::before {
     content: "";
-    padding: 0;
+    margin: 0;
   }
 
   li {
