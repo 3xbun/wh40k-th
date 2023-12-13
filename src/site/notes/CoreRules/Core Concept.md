@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-rules/core-concept/","created":"2023-12-11T09:41:43.503+07:00","updated":"2023-12-11T11:34:00.006+07:00"}
+{"dg-publish":true,"permalink":"/core-rules/core-concept/","dgEnableSearch":true,"created":"2023-12-11T09:41:43.503+07:00","updated":"2023-12-13T15:17:45.764+07:00"}
 ---
 
 
