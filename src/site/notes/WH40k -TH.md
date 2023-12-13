@@ -29,7 +29,7 @@
 [[Imperial Knights\|Imperial Knights]]
 [[League of Votann\|League of Votann]]
 [[Necrons\|Necrons]]
-[[Orks\|Orks]]
+[[Index-Orks/Orks\|Orks]]
 [[Space Marines\|Space Marines]]
 [[Space Wolves\|Space Wolves]]
 [[Thousand Sons\|Thousand Sons]]
