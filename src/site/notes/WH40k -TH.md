@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wh-40k-th/","contentClasses":"menu","tags":["gardenEntry"],"created":"2023-12-11T00:53:45.071+07:00","updated":"2023-12-11T11:00:19.138+07:00"}
+{"dg-publish":true,"permalink":"/wh-40k-th/","contentClasses":"menu","tags":["gardenEntry"],"dgEnableSearch":true,"created":"2023-12-11T00:53:45.071+07:00","updated":"2023-12-13T15:04:15.765+07:00"}
 ---
 
 
