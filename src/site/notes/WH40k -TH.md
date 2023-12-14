@@ -36,6 +36,6 @@
 - [[Space Wolves\|Space Wolves]]
 - [[Thousand Sons\|Thousand Sons]]
 - [[Titan Legions\|Titan Legions]]
-- [[Tyranids\|Tyranids]]
+- [[Tyranids/Tyranids\|Tyranids]]
 - [[T'au Empire\|T'au Empire]]
 - [[World Eater\|World Eater]]
