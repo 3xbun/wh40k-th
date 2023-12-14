@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-rules/core-concept/","dgEnableSearch":true,"created":"2023-12-11T09:41:43.503+07:00","updated":"2023-12-13T15:17:45.764+07:00"}
+{"dg-publish":true,"permalink":"/core-rules/core-concept/","tags":["gardenEntry"],"dgEnableSearch":true,"created":"2023-12-11T09:41:43.503+07:00","updated":"2023-12-14T18:31:10.469+07:00"}
 ---
 
 
