@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tyranids/detachments/invasion-fleet/enhancements/","dgEnableSearch":true,"created":"2023-12-14T17:42:49.108+07:00","updated":"2023-12-14T18:01:16.069+07:00"}
+{"dg-publish":true,"permalink":"/tyranids/detachments/invasion-fleet/enhancements/","dgEnableSearch":true,"created":"2023-12-14T17:42:49.108+07:00","updated":"2023-12-14T18:44:17.761+07:00"}
 ---
 
 > [!EXAMPLE]- ALIEN CUNNING (30 Points)
