@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;700&display=swap");
 
 h1 {
   text-align: center;
 }
 
 body {
-  font-family: 'Chakra Petch', sans-serif !important;
+  font-family: "Chakra Petch", sans-serif !important;
 }
 
 ul {
@@ -16,9 +16,9 @@ ul li::before {
   content: "\25A0";
   color: red;
   font-weight: bold;
-  display: inline-block; 
+  display: inline-block;
   width: 1em;
-  margin-right: .5em;
+  margin-right: 0.5em;
 }
 
 ul {
@@ -37,23 +37,37 @@ ul {
   }
 
   li::before {
-    content: "";
+    content: none;
     margin: 0;
   }
 
   li {
     background-color: white;
     margin-bottom: 1em;
-    padding: .5em 1em;
+    padding: 0.5em 1em;
     border-radius: 1em;
   }
-  
+
   li .is-unresolved {
-    color: #B2BEB5;
+    color: #b2beb5;
   }
-  
+
   li a {
     color: black;
   }
 }
 
+.callout {
+  li {
+    background-color: transparent;
+    margin-top: -2em;
+  }
+  ul li p::before {
+    content: "\25A0";
+    color: red;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-right: 0.5em;
+  }
+}
