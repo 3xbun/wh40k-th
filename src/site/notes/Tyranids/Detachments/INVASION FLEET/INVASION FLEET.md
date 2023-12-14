@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tyranids/detachments/invasion-fleet/invasion-fleet/","contentClasses":"menu","dgEnableSearch":true,"created":"2023-12-14T17:42:27.398+07:00","updated":"2023-12-14T18:50:46.035+07:00"}
+{"dg-publish":true,"permalink":"/tyranids/detachments/invasion-fleet/invasion-fleet/","contentClasses":"menu","dgEnableSearch":true,"created":"2023-12-14T17:42:27.398+07:00","updated":"2023-12-14T18:51:49.062+07:00"}
 ---
 
 - [[Tyranids/Detachments/INVASION FLEET/ENHANCEMENTS\|ENHANCEMENTS]]
@@ -11,11 +11,11 @@
 
 > [!EXAMPLE]- HYPER-ADAPTATIONS
 > เมื่อเริ่ม Battle Round รอบแรก ให้เลือกหนึ่งใน Hyper-adaptations ต่อไปนี้เพื่อใช้งานสําหรับยูนิต Tyranids ในกองทัพของคุณจนกระทั่งจบเกม:
-> 1. **SWARMING INSTINCTS** 
+> - **SWARMING INSTINCTS** 
 > ทุกครั้งที่โมเดล Tyranids ที่มี Hyper-adaptations นี้ทําการโจมตีใส่เป้าหมายที่เป็นยูนิต Infantry หรือ Swarm การโจมตีนั้นจะมีความสามารถ \[SUSTAINED HITS 1]
 > 
-> 2. **HYPER-AGGRESSION**
+> - **HYPER-AGGRESSION**
 > ทุกครั้งที่โมเดล Tyranids ที่มี Hyper-adaptations นี้ทําการโจมตีใส่เป้าหมายที่เป็นยูนิต Monster หรือ Vehicle ของศัตรูการโจมตีนั้นจะมีความสามารถ \[LETHAL HITS]
-> 3. **HIVE PREDATORS**
+> - **HIVE PREDATORS**
 > ทุกครั้งที่โมเดล Tyranids ที่มี Hyper-adaptations นี้ทําการโจมตีใส่เป้าหมายที่เป็นยูนิต Character ศัตรู หากทอยออกคริติคอลการโจมตีนั้นจะมีความสามารถ \[PRECISION]
 
