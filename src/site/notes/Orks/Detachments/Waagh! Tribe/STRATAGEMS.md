@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/orks/detachments/waagh-tribe/stratagems/","dgEnableSearch":true,"created":"2023-12-13T14:32:06.447+07:00","updated":"2023-12-13T15:17:37.314+07:00"}
+{"dg-publish":true,"permalink":"/orks/detachments/waagh-tribe/stratagems/","dgEnableSearch":true,"created":"2023-12-13T14:32:06.447+07:00","updated":"2023-12-14T18:44:42.688+07:00"}
 ---
 
 > [!TIP]- CAREEN! (1 CP)
