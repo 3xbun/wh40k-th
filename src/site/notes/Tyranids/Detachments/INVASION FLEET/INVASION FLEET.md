@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tyranids/detachments/invasion-fleet/invasion-fleet/","contentClasses":"menu","dgEnableSearch":true,"created":"2023-12-14T17:42:27.398+07:00","updated":"2023-12-14T18:51:49.062+07:00"}
+{"dg-publish":true,"dg-permalink":"Tyranids/Detachments/Invasion Fleet","permalink":"/Tyranids/Detachments/Invasion Fleet/","contentClasses":"menu","created":"2023-12-14T17:42:27.398+07:00","updated":"2023-12-14T19:23:19.137+07:00"}
 ---
 
 - [[Tyranids/Detachments/INVASION FLEET/ENHANCEMENTS\|ENHANCEMENTS]]
