@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wh-40k-th/","contentClasses":"menu","tags":["gardenEntry"],"dgEnableSearch":true,"created":"2023-12-11T00:53:45.071+07:00","updated":"2023-12-14T18:33:17.747+07:00"}
+{"dg-publish":true,"permalink":"/wh-40k-th/","contentClasses":"menu","tags":["gardenEntry"],"created":"2023-12-11T00:53:45.071+07:00","updated":"2023-12-16T03:21:47.343+07:00"}
 ---
 
 
@@ -15,8 +15,8 @@
 - [[Adeptus Mechanicus\|Adeptus Mechanicus]]
 - [[Aeldari\|Aeldari]]
 - [[Astra Militarum\|Astra Militarum]]
-- [[Black Templars\|Black Templars]]
-- [[Blood Angels\|Blood Angels]]
+- [[Black Templars/Black Templars\|Black Templars]]
+- [[Blood Angels/Blood Angels\|Blood Angels]]
 - [[Chaos Daemons\|Chaos Daemons]]
 - [[Chaos Knights\|Chaos Knights]]
 - [[Chaos Space Marines\|Chaos Space Marines]]
