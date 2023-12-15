@@ -8,7 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "914837171212b872",
+            "id": "1e5ac37cf4493a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WH40k -TH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1b28d30d032aa0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Black Templars/Black Templars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41a4f6c2f03fa3b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +42,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "914837171212b872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orks/Orks.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b9586e926734c743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orks/Detachments/Waagh! Tribe/WAAAGH! TRIBE.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "3288fe630aa4c9e5",
@@ -86,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Black Templars/Army Rules.md",
+                "file": "Black Templars/Black Templars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Black Templars/Army Rules.md",
+                "file": "Black Templars/Black Templars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,24 +176,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Black Templars/Army Rules.md"
+                "file": "Black Templars/Black Templars.md"
               }
             }
-          },
-          {
-            "id": "63e2ec20e0fb3634",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 542.5
+    "width": 542.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,14 +200,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "914837171212b872",
+  "active": "c1b28d30d032aa0e",
   "lastOpenFiles": [
-    "Black Templars/Black Templars.md",
     "Black Templars/Army Rules.md",
-    "Orks/Orks.md",
+    "Black Templars/Black Templars.md",
     "Black Templars/Detachments/RIGHTEOUS CRUSADERS/ENHANCEMENTS.md",
     "Black Templars/Detachments/RIGHTEOUS CRUSADERS/RIGHTEOUS CRUSADERS.md",
     "Black Templars/Detachments/RIGHTEOUS CRUSADERS/STRATAGEMS.md",
+    "Orks/Orks.md",
     "Orks/Army Rules.md",
     "Orks/Detachments/Waagh! Tribe/WAAAGH! TRIBE.md",
     "Black Templars/Detachments/Default.md",
