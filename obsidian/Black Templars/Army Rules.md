@@ -1,5 +1,6 @@
 ---
-{"dg-publish":false,"dg-permalink":"Orks/Army Rules","permalink":"/Orks/Army Rules/","created":"2023-12-12T13:45:57.000+07:00","updated":"2023-12-14T19:20:44.420+07:00"}
+dg-publish: false
+dg-permalink: "Black Templars/Army Rules"
 ---
 
 > [!EXAMPLE]- 
