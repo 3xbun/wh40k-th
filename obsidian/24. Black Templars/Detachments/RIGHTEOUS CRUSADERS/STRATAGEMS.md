@@ -1,11 +1,3 @@
----
-dg-publish: false
-dg-permalink: Orks/Detachments/Waagh! Tribe/Stratagems
-permalink: /Orks/Detachments/Waagh! Tribe/Stratagems/
-created: 2023-12-13T14:32:06.447+07:00
-updated: 2023-12-14T19:21:21.609+07:00
----
-
 > [!TIP]- CAREEN! (1 CP)
 > ### WAAAGH! TRIBE – EPIC DEED STRATAGEM
 > - **ใช้เมื่อ:** เฟสใดก็ได้ หลังจากที่ยูนิต Orks Vehicle จากกองทัพคุณที่มีความสามารถ Deadly Demise ถูกทําลาย

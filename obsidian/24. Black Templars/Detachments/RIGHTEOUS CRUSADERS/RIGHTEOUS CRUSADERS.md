@@ -4,8 +4,8 @@ dg-permalink: "Black Templars/Detachments/RIGHTEOUS CRUSADERS"
 dg-content-classes: 'menu'
 ---
 
-- [[Black Templars/Detachments/RIGHTEOUS CRUSADERS/ENHANCEMENTS\|ENHANCEMENTS]]
-- [[Black Templars/Detachments/RIGHTEOUS CRUSADERS/STRATAGEMS\|STRATAGEMS]]
+- [[24. Black Templars/Detachments/RIGHTEOUS CRUSADERS/ENHANCEMENTS|ENHANCEMENTS]]
+- [[24. Black Templars/Detachments/RIGHTEOUS CRUSADERS/STRATAGEMS|STRATAGEMS]]
 
 ***
 

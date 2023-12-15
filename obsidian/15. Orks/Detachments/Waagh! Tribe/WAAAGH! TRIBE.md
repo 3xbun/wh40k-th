@@ -3,8 +3,8 @@ dg-publish: true
 dg-permalink: "Orks/Detachments/WAAAGH! TRIBE"
 dg-content-classes: 'menu'
 ---
-- [[Orks/Detachments/Waagh! Tribe/ENHANCEMENTS|ENHANCEMENTS]]
-- [[Orks/Detachments/Waagh! Tribe/STRATAGEMS|STRATAGEMS]]
+- [[15. Orks/Detachments/Waagh! Tribe/ENHANCEMENTS|ENHANCEMENTS]]
+- [[15. Orks/Detachments/Waagh! Tribe/STRATAGEMS|STRATAGEMS]]
 
 ***
 

@@ -4,10 +4,10 @@ dg-permalink: Blood Angels
 dg-content-classes: menu
 ---
 - [[DATASHEETS]]
-- [[Blood Angels/Army Rules|ARMY RULES]]
+- [[22. Blood Angels/Army Rules|ARMY RULES]]
 
 ***
 
 ## DETACHMENTS
 
-- [[Blood Angels/Detachments/Default|DETACHMENTS]]
+- [[Default|DETACHMENTS]]

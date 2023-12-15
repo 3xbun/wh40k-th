@@ -1,10 +1,3 @@
----
-dg-publish: false
-dg-permalink: Orks/Detachments/Waagh! Tribe/Enhancements
-permalink: /Orks/Detachments/Waagh! Tribe/Enhancements/
-created: 2023-12-12T14:04:42.000+07:00
-updated: 2023-12-14T19:21:38.950+07:00
----
 
 > [!EXAMPLE]- FOLLOW ME LADZ (25 Points)
 > *ออร์คตัวนี้มักจะอยู่แนวหน้าของการโจมตีและชอบที่จะเป็นคนแรกที่เข้าสู่การต่อสู้*

@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "896b940980f28855",
+        "id": "23d963c91b54a941",
         "type": "tabs",
         "children": [
           {
-            "id": "1e5ac37cf4493a76",
+            "id": "f29767b0a3039ccc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WH40k -TH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1b28d30d032aa0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Black Templars/Black Templars.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41a4f6c2f03fa3b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Black Templars/Army Rules.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "914837171212b872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orks/Orks.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b9586e926734c743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orks/Detachments/Waagh! Tribe/WAAAGH! TRIBE.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "3288fe630aa4c9e5",
@@ -136,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Black Templars/Black Templars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Black Templars/Black Templars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,17 +119,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Black Templars/Black Templars.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "4c5a63b5b4b61781",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 542.5,
-    "collapsed": true
+    "width": 542.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,23 +150,29 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "c1b28d30d032aa0e",
+  "active": "f29767b0a3039ccc",
   "lastOpenFiles": [
-    "Black Templars/Army Rules.md",
-    "Black Templars/Black Templars.md",
-    "Black Templars/Detachments/RIGHTEOUS CRUSADERS/ENHANCEMENTS.md",
-    "Black Templars/Detachments/RIGHTEOUS CRUSADERS/RIGHTEOUS CRUSADERS.md",
-    "Black Templars/Detachments/RIGHTEOUS CRUSADERS/STRATAGEMS.md",
-    "Orks/Orks.md",
-    "Orks/Army Rules.md",
-    "Orks/Detachments/Waagh! Tribe/WAAAGH! TRIBE.md",
-    "Black Templars/Detachments/Default.md",
+    "26. Tyranids/Army Rules.md",
+    "24. Black Templars/Black Templars.md",
+    "Untitled",
+    "22. Blood Angels/Blood Angels.md",
+    "24. Black Templars/Detachments/RIGHTEOUS CRUSADERS/RIGHTEOUS CRUSADERS.md",
+    "24. Black Templars/Detachments/RIGHTEOUS CRUSADERS/STRATAGEMS.md",
+    "24. Black Templars/Detachments/RIGHTEOUS CRUSADERS/ENHANCEMENTS.md",
+    "_templates/army_rules_template.md",
+    "_templates/factions_template.md",
+    "22. Blood Angels/Army Rules.md",
+    "26. Tyranids/Tyranids.md",
+    "15. Orks/Detachments/Waagh! Tribe/WAAAGH! TRIBE.md",
+    "24. Black Templars/Army Rules.md",
     "WH40k -TH.md",
+    "15. Orks/Orks.md",
+    "15. Orks/Army Rules.md",
+    "Black Templars/Detachments/Default.md",
     "Black Templars.md",
-    "Blood Angels/Blood Angels.md",
-    "Black Templars/Detachments/RIGHTEOUS CRUSADERS",
-    "Black Templars/Detachments",
-    "Black Templars",
+    "24. Black Templars/Detachments/RIGHTEOUS CRUSADERS",
+    "24. Black Templars/Detachments",
+    "24. Black Templars",
     "BLACK TEMPLARS/Detachments/RIGHTEOUS CRUSADERS/STRATAGEMS.md",
     "BLACK TEMPLARS/Detachments/RIGHTEOUS CRUSADERS/RIGHTEOUS CRUSADERS.md",
     "BLACK TEMPLARS/Detachments/RIGHTEOUS CRUSADERS/ENHANCEMENTS.md",
@@ -225,20 +181,13 @@
     "BLACK TEMPLARS/Orks.md",
     "BLACK TEMPLARS/Army Rules.md",
     "BLACK TEMPLARS",
-    "Blood Angels/Army Rules.md",
-    "Blood Angels/Detachments/Default.md",
-    "templates/factions_template.md",
-    "templates/army_rules_template.md",
-    "Blood Angels/Detachments",
+    "22. Blood Angels/Detachments/Default.md",
+    "22. Blood Angels/Detachments",
     "Detachments/Default.md",
     "Detachments",
-    "Tyranids/Tyranids.md",
     "Blood Angels/Untitled",
     "templates/Untitled.md",
-    "templates/myScript.js",
-    "Tyranids/Army Rules.md",
-    "{{title}}/Army Rules.md",
-    "imgs/favicons.svg",
+    "_imgs/favicons.svg",
     "imgs/Untitled-2 (1).svg",
     "imgs/Untitled-2.svg",
     "imgs/favicons/android-chrome-512x512.png",
@@ -246,8 +195,8 @@
     "imgs/favicons/favicon-16x16.png",
     "imgs/favicons/favicon-32x32.png",
     "imgs/favicons/apple-touch-icon.png",
-    "imgs/dice-results.png",
-    "imgs/unit-fully-visible.png",
+    "_imgs/dice-results.png",
+    "_imgs/unit-fully-visible.png",
     "Untitled.canvas"
   ]
 }

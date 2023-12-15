@@ -3,8 +3,8 @@ dg-publish: true
 dg-permalink: "Tyranids/Detachments/Invasion Fleet"
 dg-content-classes: 'menu'
 ---
-- [[Tyranids/Detachments/INVASION FLEET/ENHANCEMENTS|ENHANCEMENTS]]
-- [[Tyranids/Detachments/INVASION FLEET/STRATAGEMS|STRATAGEMS]]
+- [[26. Tyranids/Detachments/INVASION FLEET/ENHANCEMENTS|ENHANCEMENTS]]
+- [[26. Tyranids/Detachments/INVASION FLEET/STRATAGEMS|STRATAGEMS]]
 
 ***
 

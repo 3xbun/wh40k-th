@@ -4,7 +4,7 @@ dg-permalink: "Orks"
 dg-content-classes: 'menu'
 ---
 - [[DATASHEETS]]
-- [[Orks/Army Rules|ARMY RULES]]
+- [[15. Orks/Army Rules|ARMY RULES]]
 
 ***
 

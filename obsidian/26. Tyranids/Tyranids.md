@@ -4,7 +4,7 @@ dg-permalink: "Tyranids"
 dg-content-classes: 'menu'
 ---
 - [[DATASHEETS]]
-- [[Tyranids/Army Rules|ARMY RULES]]
+- [[26. Tyranids/Army Rules|ARMY RULES]]
 - [[FAQs]]
 
 ***
