@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiCalculator",
+      "TiBrowserCheck",
+      "TiListCheck",
+      "TiNote",
+      "TiBook2"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "1. Projects": "TiBook2",
+  "2. Areas": "TiBriefcase",
+  "3. Resources": "TiBooks",
+  "4. Archives": "TiArchive",
+  "3. Resources/Daily Notes": "TiNote",
+  "Home.md": "TiHome",
+  "Templates": "TiTemplate",
+  "3. Resources/Weekly Notes": "TiBrowserCheck",
+  "Ledger": "TiCalculator"
+}
