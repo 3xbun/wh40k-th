@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Black Templars","permalink":"/Black Templars/","contentClasses":"menu","created":"2023-12-16T03:20:45.153+07:00","updated":"2023-12-16T04:22:45.405+07:00"}
+{"dg-publish":true,"dg-permalink":"Black Templars","permalink":"/Black Templars/","contentClasses":"menu","created":"2023-12-16T03:20:45.153+07:00","updated":"2023-12-16T04:28:47.732+07:00"}
 ---
 
 - [[DATASHEETS\|DATASHEETS]]
@@ -9,4 +9,4 @@
 
 ## DETACHMENTS
 
-- [[RIGHTEOUS CRUSADERS]
+- [[24. Black Templars/Detachments/RIGHTEOUS CRUSADERS/RIGHTEOUS CRUSADERS\|RIGHTEOUS CRUSADERS]]
