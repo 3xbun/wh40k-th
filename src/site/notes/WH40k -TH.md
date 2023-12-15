@@ -5,7 +5,7 @@
 
 # ยินดีต้อนรับสู่ Warhammer 40k - TH Edition
 
-- [[CoreRules/Core Rules\|Core Rules]]
+- [[00. CoreRules/Core Rules\|Core Rules]]
 - [[Key Documents\|Key Documents]]
 
 ***
@@ -15,8 +15,8 @@
 - [[Adeptus Mechanicus\|Adeptus Mechanicus]]
 - [[Aeldari\|Aeldari]]
 - [[Astra Militarum\|Astra Militarum]]
-- [[Black Templars/Black Templars\|Black Templars]]
-- [[Blood Angels/Blood Angels\|Blood Angels]]
+- [[24. Black Templars/Black Templars\|Black Templars]]
+- [[22. Blood Angels/Blood Angels\|Blood Angels]]
 - [[Chaos Daemons\|Chaos Daemons]]
 - [[Chaos Knights\|Chaos Knights]]
 - [[Chaos Space Marines\|Chaos Space Marines]]
@@ -31,11 +31,11 @@
 - [[Imperial Knights\|Imperial Knights]]
 - [[League of Votann\|League of Votann]]
 - [[Necrons\|Necrons]]
-- [[Orks/Orks\|Orks]]
+- [[15. Orks/Orks\|Orks]]
 - [[Space Marines\|Space Marines]]
 - [[Space Wolves\|Space Wolves]]
 - [[Thousand Sons\|Thousand Sons]]
 - [[Titan Legions\|Titan Legions]]
-- [[Tyranids/Tyranids\|Tyranids]]
+- [[26. Tyranids/Tyranids\|Tyranids]]
 - [[T'au Empire\|T'au Empire]]
 - [[World Eater\|World Eater]]
