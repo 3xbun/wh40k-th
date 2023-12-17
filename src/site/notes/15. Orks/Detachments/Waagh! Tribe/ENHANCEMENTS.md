@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Orks/Detachments/Waagh! Tribe/Enhancements","permalink":"/Orks/Detachments/Waagh! Tribe/Enhancements/","created":"2023-12-12T14:04:42.000+07:00","updated":"2023-12-14T19:21:38.950+07:00"}
+{"dg-publish":true,"dg-permalink":"Orks/Detachments/Waagh! Tribe/Enhancements","permalink":"/Orks/Detachments/Waagh! Tribe/Enhancements/","created":"2023-12-16T04:35:42.199+07:00","updated":"2023-12-14T19:21:38.950+07:00"}
 ---
 
 > [!EXAMPLE]- FOLLOW ME LADZ (25 Points)
