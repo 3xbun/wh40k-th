@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Black Templars/Detachments/RIGHTEOUS CRUSADERS","permalink":"/Black Templars/Detachments/RIGHTEOUS CRUSADERS/","contentClasses":"menu","created":"2023-12-16T03:20:45.000+07:00","updated":"2023-12-16T04:22:45.401+07:00"}
+{"dg-publish":true,"dg-permalink":"Black Templars/Detachments/RIGHTEOUS CRUSADERS","permalink":"/Black Templars/Detachments/RIGHTEOUS CRUSADERS/","contentClasses":"menu","created":"2023-12-16T04:35:42.224+07:00","updated":"2023-12-16T04:22:45.401+07:00"}
 ---
 
 
