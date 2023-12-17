@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Orks/Army Rules","permalink":"/Orks/Army Rules/","created":"2023-12-12T13:45:57.000+07:00","updated":"2023-12-14T19:20:44.420+07:00"}
+{"dg-publish":true,"dg-permalink":"Orks/Army Rules","permalink":"/Orks/Army Rules/","created":"2023-12-16T04:35:42.193+07:00","updated":"2023-12-14T19:20:44.420+07:00"}
 ---
 
 > [!EXAMPLE]- WAAAGH!
