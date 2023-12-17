@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Tyranids/Detachments/Invasion Fleet/Stratagems","permalink":"/Tyranids/Detachments/Invasion Fleet/Stratagems/","created":"2023-12-14T17:46:39.517+07:00","updated":"2023-12-14T19:23:38.049+07:00"}
+{"dg-publish":true,"dg-permalink":"Tyranids/Detachments/Invasion Fleet/Stratagems","permalink":"/Tyranids/Detachments/Invasion Fleet/Stratagems/","created":"2023-12-16T04:35:42.239+07:00","updated":"2023-12-14T19:23:38.049+07:00"}
 ---
 
 > [!TIP]- RAPID REGENERATION (1 CP)

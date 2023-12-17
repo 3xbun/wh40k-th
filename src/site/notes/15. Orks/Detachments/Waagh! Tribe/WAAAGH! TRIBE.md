@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Orks/Detachments/WAAAGH! TRIBE","permalink":"/Orks/Detachments/WAAAGH! TRIBE/","contentClasses":"menu","created":"2023-12-12T13:41:45.000+07:00","updated":"2023-12-16T04:22:28.291+07:00"}
+{"dg-publish":true,"dg-permalink":"Orks/Detachments/WAAAGH! TRIBE","permalink":"/Orks/Detachments/WAAAGH! TRIBE/","contentClasses":"menu","created":"2023-12-16T04:35:42.201+07:00","updated":"2023-12-16T04:22:28.291+07:00"}
 ---
 
 - [[15. Orks/Detachments/Waagh! Tribe/ENHANCEMENTS\|ENHANCEMENTS]]
