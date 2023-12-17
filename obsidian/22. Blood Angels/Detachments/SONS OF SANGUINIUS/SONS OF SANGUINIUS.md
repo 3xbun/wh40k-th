@@ -10,8 +10,8 @@ dg-content-classes: menu
 
 ### DETACHMENTS RULES
 
-**ข้อจำกัด**
-- กองทัพของคุณสามารถใช้ยูนิต **Blood Angels** ได้ แต่ไม่สามารถใส่ยูนิต **Adeptus Astartes** จาก Chapter อื่นได้ (**ตัวอย่าง เช่น ยูนิตที่มีคีย์เวิร์ด Ultramarine หรืออื่นๆ**)
+> [!WARNING] ข้อจำกัด
+> - กองทัพของคุณสามารถใช้ยูนิต **Blood Angels** ได้ แต่ไม่สามารถใส่ยูนิต **Adeptus Astartes** จาก Chapter อื่นได้ (**ตัวอย่าง เช่น ยูนิตที่มีคีย์เวิร์ด Ultramarine หรืออื่นๆ**)
 
 > [!EXAMPLE]- THE RED THIRST
 > ทุกครั้งที่ยูนิต Adeptus Astartes จากกองทัพของคุณถูกเลือกให้ต่อสู้ หากยูนิตนั้นทำ Charge move ในเทิร์นนี้ จนกระทั่งสิ้นสุดเฟส เพิ่ม 1 ให้กับค่า Strength และ Attacks ของอาวุธระยะประชิดที่ติดตั้งโดยโมเดลในยูนิตนั้น
