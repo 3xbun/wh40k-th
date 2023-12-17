@@ -13,4 +13,4 @@ _site/
 **/.DS_Store
 # Obsidian
 obsidian/.obsidian/plugins/digitalgarden
-obsidian\.obsidian\workspace.json
+obsidian/.obsidian/workspace.json
