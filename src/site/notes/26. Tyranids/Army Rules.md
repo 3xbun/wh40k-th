@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Tyranids/Army Rules","permalink":"/Tyranids/Army Rules/","created":"2023-12-13T16:17:37.148+07:00","updated":"2023-12-14T19:22:22.018+07:00"}
+{"dg-publish":true,"dg-permalink":"Tyranids/Army Rules","permalink":"/Tyranids/Army Rules/","created":"2023-12-16T04:35:42.232+07:00","updated":"2023-12-14T19:22:22.018+07:00"}
 ---
 
 > [!EXAMPLE]- SYNAPSE
