@@ -1,13 +1,12 @@
 ---
-dg-publish: false
+dg-publish: true
 dg-permalink: Blood Angels
 dg-content-classes: menu
 ---
 - [[DATASHEETS]]
-- [[22. Blood Angels/Army Rules|ARMY RULES]]
 
 ***
 
 ## DETACHMENTS
 
-- [[Default|DETACHMENTS]]
+- [[SONS OF SANGUINIUS]]
