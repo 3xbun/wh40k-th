@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Tyranids","permalink":"/Tyranids/","contentClasses":"menu","created":"2023-12-13T16:11:58.145+07:00","updated":"2023-12-16T04:22:10.438+07:00"}
+{"dg-publish":true,"dg-permalink":"Tyranids","permalink":"/Tyranids/","contentClasses":"menu","created":"2023-12-16T04:35:42.234+07:00","updated":"2023-12-16T04:22:10.438+07:00"}
 ---
 
 - [[DATASHEETS\|DATASHEETS]]
