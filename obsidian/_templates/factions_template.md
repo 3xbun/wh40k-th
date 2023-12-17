@@ -10,4 +10,4 @@ dg-content-classes: 'menu'
 
 ## DETACHMENTS
 
-- [[{{title}}/Detachments/Default|DETACHMENTS]]
+- [[{{title}}/Detachments/DEFAULT]]
