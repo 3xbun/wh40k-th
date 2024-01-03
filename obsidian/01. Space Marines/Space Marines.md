@@ -1,9 +1,9 @@
 ---
-dg-publish: false
+dg-publish: true
 dg-permalink: Space Marines
 dg-content-classes: menu
 ---
-- [[DATASHEETS]
+- [[DATASHEETS]]
 - [[Space Marines/Army Rules|ARMY RULES]]
 
 ***

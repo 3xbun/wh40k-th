@@ -1,10 +1,10 @@
 ---
-dg-publish: false
+dg-publish: true
 dg-permalink: Thousand Sons
 dg-content-classes: menu
 ---
-- [[DATASHEETS]
-- [[Thousand Sons/Army Rules|ARMY RULES]]
+- [[DATASHEETS]]
+- [[03. Thousand Sons/Army Rules|ARMY RULES]]
 
 ***
 

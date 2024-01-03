@@ -1,10 +1,10 @@
 ---
-dg-publish: false
-dg-permalink: Death Guard
+dg-publish: true
+dg-permalink: "Death Guard"
 dg-content-classes: menu
 ---
-- [[DATASHEETS]
-- [[Death Guard/Army Rules|ARMY RULES]]
+- [[DATASHEETS]]
+- [[02. Death Guards/Army Rules|ARMY RULES]]
 
 ***
 

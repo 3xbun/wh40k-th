@@ -3,8 +3,8 @@ dg-publish: false
 dg-permalink: Chaos Space Marines
 dg-content-classes: menu
 ---
-- [[DATASHEETS]
-- [[Chaos Space Marines/Army Rules|ARMY RULES]]
+- [[DATASHEETS]]
+- [[05. Chaos Space Marines/Army Rules|ARMY RULES]]
 
 ***
 
